@@ -1,2 +1,4 @@
 # SQL-Queries
-All my SQL quesries here
+I am a biggener in data analysis.
+I have started learning SQL, R and Python.
+
